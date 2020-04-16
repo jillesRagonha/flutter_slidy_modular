@@ -19,7 +19,7 @@ class _OtherPageState extends State<OtherPage> {
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Text(homeController.text)
+          child: Text('2')
         ),
       ),
     );
